@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\Course 8\\Course8Edit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD984-196B-4C5C-9621-C9A2C14B2957}|Course8Edit\\Course8Edit.vcxproj|D:\\VISUAL STUDIO\\VISUAL STUDIO IDE\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD984-196B-4C5C-9621-C9A2C14B2957}|Course8Edit\\Course8Edit.vcxproj|E:\\Courses\\Course 8\\Course8Edit\\Course8Edit\\Course8Edit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252AD984-196B-4C5C-9621-C9A2C14B2957}|Course8Edit\\Course8Edit.vcxproj|solutionrelative:Course8Edit\\Course8Edit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252AD984-196B-4C5C-9621-C9A2C14B2957}|Course8Edit\\Course8Edit.vcxproj|E:\\Courses\\Course 8\\Course8Edit\\Course8Edit\\MyLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{252AD984-196B-4C5C-9621-C9A2C14B2957}|Course8Edit\\Course8Edit.vcxproj|solutionrelative:Course8Edit\\MyLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 965,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector",
+              "DocumentMoniker": "D:\\Visual Studio\\Visual Studio IDE\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ToolTip": "D:\\Visual Studio\\Visual Studio IDE\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ViewState": "AQIAAEQHAAAAAAAAAAAMwGAHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-26T19:48:03.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course8Edit.cpp",
+              "DocumentMoniker": "E:\\Courses\\Course 8\\Course8Edit\\Course8Edit\\Course8Edit.cpp",
+              "RelativeDocumentMoniker": "Course8Edit\\Course8Edit.cpp",
+              "ToolTip": "E:\\Courses\\Course 8\\Course8Edit\\Course8Edit\\Course8Edit.cpp",
+              "RelativeToolTip": "Course8Edit\\Course8Edit.cpp",
+              "ViewState": "AQIAAPwFAAAAAAAAAAAgwBkGAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-02T08:56:23.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 733,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLib.h",
+              "DocumentMoniker": "E:\\Courses\\Course 8\\Course8Edit\\Course8Edit\\MyLib.h",
+              "RelativeDocumentMoniker": "Course8Edit\\MyLib.h",
+              "ToolTip": "E:\\Courses\\Course 8\\Course8Edit\\Course8Edit\\MyLib.h",
+              "RelativeToolTip": "Course8Edit\\MyLib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T22:14:01.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

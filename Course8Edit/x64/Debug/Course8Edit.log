@@ -1,0 +1,8 @@
+﻿  Course8Edit.cpp
+E:\Courses\Course 8\Course8Edit\Course8Edit\Course8Edit.cpp(72,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\Courses\Course 8\Course8Edit\Course8Edit\Course8Edit.cpp(960,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+E:\Courses\Course 8\Course8Edit\Course8Edit\Course8Edit.cpp(1000,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+E:\Courses\Course 8\Course8Edit\Course8Edit\Course8Edit.cpp(878,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+E:\Courses\Course 8\Course8Edit\Course8Edit\Course8Edit.cpp(920,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+E:\Courses\Course 8\Course8Edit\Course8Edit\Course8Edit.cpp(1027,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Course8Edit.vcxproj -> E:\Courses\Course 8\Course8Edit\x64\Debug\Course8Edit.exe
